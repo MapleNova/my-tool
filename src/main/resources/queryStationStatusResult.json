@@ -1,0 +1,44 @@
+[
+  {
+    "connectorStatusInfos": [
+      {
+        "connectorId": "425204567969989",
+        "status": 0
+      },
+      {
+        "connectorId": "564634839334277",
+        "status": 255
+      },
+      {
+        "connectorTpid": "AW212T60088-1",
+        "connectorId": "564949560334917",
+        "status": 0
+      },
+      {
+        "connectorId": "587688074796805",
+        "status": 1
+      }
+    ],
+    "stationId": "561631775170629"
+  },
+  {
+    "connectorStatusInfos": [
+      {
+        "connectorTpid": "AD111T50001-2",
+        "connectorId": "361803448152710",
+        "status": 1
+      },
+      {
+        "connectorTpid": "AD111T50001-1",
+        "connectorId": "361803458892422",
+        "status": 1
+      },
+      {
+        "connectorTpid": "CW243T00008-1",
+        "connectorId": "585176113359813",
+        "status": 1
+      }
+    ],
+    "stationId": "579671323033669"
+  }
+]

@@ -57,6 +57,6 @@ public class MD5Utils {
     }
 
     public static String md516(String source) {
-        return source.substring(8, 24);
+        return md5(source).substring(8, 24);
     }
 }
